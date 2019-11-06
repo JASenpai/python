@@ -1,0 +1,29 @@
+1ro GIT:
+ https://try.github.io/
+ https://www.git-tower.com/blog/git-cheat-sheet
+
+2do Cursos:
+ https://automatetheboringstuff.com/
+ https://www.udemy.com/complete-python-bootcamp/
+ https://www.coursera.org/learn/python (Universidad de Michigan)
+
+
+3ro IDE:
+ (editores de texto: sublime,vim)
+ Pycharm
+
+4to Recursos:
+ https://github.com/Pierian-Data/Complete-Python-3-Bootcamp 
+ https://www.edx.org/es/course/cs50s-introduction-to-computer-science
+
+Extras:
+
+Libros:
+	https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python
+Distribuciones:
+	Anaconda <- recomendado!
+DC (Dc Python ingles para mil recursos):
+ https://discord.gg/python
+
+Slack (Nardoz): 
+ http://slack.nardoz.com/
