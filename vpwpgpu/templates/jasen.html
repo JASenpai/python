@@ -1,0 +1,23 @@
+
+<!--  jasen.html  - yeah, I renamed I few thing, so I understand them-->
+<body>
+    <form action = "/resultado" method = "POST">
+        {% if num_pages %}
+        <input name="nombrePortal" type="hidden" value="{{num_pages}}"/>
+            {% for n in range(num_pages) %}
+            <p>
+                <p>Pagina {{ n }}
+                <p>Meta title <input placeholder = "William Arana Premium" type = "text" name = "metatitulo_{{ n }}" required/></p>
+                <p>Meta description <input placeholder = "Comienza un nuevo d&iacute;a, abre tu mente y coraz&oacute;n para que juntos comencemos a vivir en bendici&oacute;n y en oraci&oacute;n" type ="text" name = "metadescription_{{ n }}" required/></p>
+                <p>Titulo <input placeholder = "Titulo de la pagina" type = "text" name = "titulo_{{ n }}" required/></p>
+                <p>Subtitulo <input placeholder = "Subtitulo de la pagina" type ="text" name = "subtitulo_{{ n }}" required/></p>
+            </p>
+            {% endfor %}
+        
+
+        {% else %}
+        <p>Nombre portal <input placeholder = "Nombre" type = "text" name = "nombrePortal" required /></p>
+        {% endif %}
+        <p><input type = "submit" value = "submit" /></p>
+    </form>
+</body>

@@ -1,0 +1,64 @@
+ricardoQuevedo_index {
+  base_directory="index"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_login {
+  base_directory="login"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_premium {
+  base_directory="premium"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_consejos {
+  base_directory="consejos"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_cejitips {
+  base_directory="cejitips"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_chiste {
+  base_directory="chiste"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_beto {
+  base_directory="beto"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_couching {
+  base_directory="couching"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_horroroscopo {
+  base_directory="horroroscopo"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_favoritos {
+  base_directory="favoritos"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_escribenos {
+  base_directory="escribenos"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_terminos {
+  base_directory="terminos"
+  any="xhtml.jsp"
+}
+
+ricardoQuevedo_compartir{
+  base_directory="compartir"
+  any="xhtml.jsp"
+}
